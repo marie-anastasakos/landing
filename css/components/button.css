@@ -1,0 +1,11 @@
+.btn-red {
+	background: #8d082d;
+	border-radius: 10px;
+	color: black;
+	padding: 6px 22px;
+}
+
+.btn-red:hover{
+	background: black;
+	color: white;
+}
